@@ -2,3 +2,30 @@
 {
     font-family:'MS Gothic';
 }
+li{
+    list-style: none;
+}
+
+.header{
+    background-color: #00ffff;
+    height: 100px;
+}
+
+.header-logo {
+    float: left;
+    font-size: 35px;
+    padding: 20px 40px;
+}
+
+.header-list li {
+    float: left;
+    padding: 33px 20px;
+}
+
+.footer-logo {
+    float:left;
+}
+
+.footer-list{
+    float:right;
+}
