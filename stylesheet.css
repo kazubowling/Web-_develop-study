@@ -8,7 +8,15 @@ li{
 
 .header{
     background-color: #00ffff;
-    height: 100px;
+    height: 50px;
+}
+
+.main {
+    height: 200px;
+}
+
+.footer {
+    height: 50px;
 }
 
 .header-logo {
